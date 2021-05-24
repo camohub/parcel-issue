@@ -1,0 +1,14 @@
+
+li {
+    list-style-type: none;
+    padding: 15px;
+    background-color: rgb(186, 211, 231);
+    margin-bottom: 3px;
+}
+
+
+.app-enter-from,
+.app-leave-to {
+    opacity: 0;
+    scale(0.75);
+}
